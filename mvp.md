@@ -8,3 +8,5 @@ without hearing what you have to play.
 A problem you may run into is that you may only be available on specific days, and you may not know which station is most populated on those days. Suppose you're only
 available on Mondays -- we can analyze some data and inform you that the 191 ST station is the most populated on average on Mondays. But in order to give you options,
 we can also provide the rest of the top 10 stations most populated by people waiting for their train and willing to listen to your performance.
+
+![](mvp.png)
